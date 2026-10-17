@@ -4,6 +4,14 @@ date: 2026-01-15 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Launches]
 description: "Reusable rockets promise savings, but refurbishment costs and low launch rates can erode the advantage."
+permalink: "/the-reusability-math-that-doesnt-add-up/"
+subtitle: "Refurbishment costs and launch cadence decide whether reuse actually saves money."
+keywords: "rocket reusability, Falcon 9, launch economics, refurbishment, cadence"
+key_points:
+  - "A new Falcon 9 first stage costs roughly $60 million; refurbishment runs $1M-$5M per flight."
+  - "Reuse pays only at high launch cadence that amortizes recovery costs."
+  - "Recovery adds failure points and insurance cost on top of hardware savings."
+  - "Match the reuse math to your mission set, not to marketing claims."
 ---
 SpaceX's Falcon 9 booster B1058 flew 19 times before retirement, a number that once seemed impossible for orbital rockets. But each extra flight doesn't automatically translate to savings for the rest of the industry. The economics of reusable rockets are more complicated than the marketing suggests.
 

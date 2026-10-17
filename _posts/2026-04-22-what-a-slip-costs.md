@@ -4,6 +4,14 @@ date: 2026-04-22 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Exploration]
 description: "When a launch slips by months, the price isn't just dollars. Science, teams, and missions pay too."
+permalink: "/what-a-launch-slip-actually-costs/"
+subtitle: "A missed window costs staff, contracts and science seasons, often more than the launch itself."
+keywords: "launch delays, mission cost, NASA, launch windows, Europa Clipper"
+key_points:
+  - "Stand-down months still cost operations staff, facilities and renegotiated contracts."
+  - "Planetary windows can be years apart; a slip can lose an entire observing season."
+  - "Repeated slips drain teams; knowledge walks out the door with them."
+  - "Price schedule margin into the mission, not just the launch."
 ---
 When NASA's Europa Clipper missed its original launch window in 2022, it didn't just shift dates. It triggered a chain of costs that rippled through budgets, contracts, and science teams. A launch slip can be far more expensive than people realize.
 

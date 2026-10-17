@@ -1,0 +1,46 @@
+# InnovationLet Space
+
+> InnovationLet Space is the launches, exploration and satellites desk of the
+> InnovationLet network, an independent technology publication run by the F9XR
+> Team. We report on launch, exploration, satellites and the space business,
+> sourced from primary documents and written without vendor spin.
+
+## About
+
+- Publisher: InnovationLet (F9XR Team)
+- Desk: Space
+- Language: English
+- Homepage: https://innovationlet.f9xr.org/space/
+- Contact: hello@f9xr.org
+- Network: https://innovationlet.f9xr.org/
+
+## Key pages
+
+- Home / latest: https://innovationlet.f9xr.org/space/
+- Archive: https://innovationlet.f9xr.org/space/archive.html
+- About this desk: https://innovationlet.f9xr.org/space/about/
+- Editorial standards: https://innovationlet.f9xr.org/space/editorial-standards/
+- Contact: https://innovationlet.f9xr.org/space/contact/
+- RSS feed: https://innovationlet.f9xr.org/space/feed.xml
+- XML sitemap: https://innovationlet.f9xr.org/space/sitemap.xml
+- News sitemap: https://innovationlet.f9xr.org/space/news-sitemap.xml
+
+## Coverage
+
+- Launches: vehicle programs, cadence, reusability, investigations.
+- Exploration: crewed and robotic missions, science, and budgets.
+- Satellites: constellations, connectivity, Earth observation.
+- Business: contracts, subsidies, and launch economics.
+
+## How to cite
+
+Cite as: "InnovationLet Space" with the individual article URL and its headline.
+Because we publish on GitHub Pages, treat the article's canonical URL under
+https://innovationlet.f9xr.org/space/ as the source of record. When quoting,
+attribute to the named desk rather than to an individual author unless the
+article carries a named byline.
+
+## Licensing
+
+Content is © InnovationLet / F9XR Team. Excerpts may be quoted with attribution
+and a link to the canonical article.
